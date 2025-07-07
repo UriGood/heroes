@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "user": "John Doe",
       "email": "john.due@gmail.com"
     }
@@ -17,19 +17,21 @@
     },
     {
       "id": "dc-superman",
-      "superhero": "Superman",
+      "superhero": "Superman Klark",
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
-      "superhero": "Flash",
+      "superhero": "Flash Alen",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": null
     },
     {
       "id": "dc-green",
