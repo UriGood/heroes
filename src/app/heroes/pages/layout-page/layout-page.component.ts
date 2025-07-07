@@ -7,6 +7,12 @@ import { AuthService } from 'src/app/auth/services/auth.service';
   selector: 'app-layout-page',
   templateUrl: './layout-page.component.html',
   styles: [
+    `
+    p{
+      margin: 0px 15px 0px 0px;
+
+    }
+    `
   ]
 })
 export class LayoutPageComponent {
